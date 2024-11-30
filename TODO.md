@@ -31,10 +31,6 @@ gemiline : The height of the eiffel tower is ...
 ```
 
 
-# My Own Prerequisites
-1. Learn how to write proper Industry standard python programs that will allow scalability and security
-2. Learn how to interact with the Gemini api.
-3. What is the industry standard used to store and access api keys for accessing Gemini api.
 
 
 ---
@@ -67,3 +63,16 @@ gemiline: "The height of the Eiffel Tower is blah blah blah meters"
 # Then the cursor will place itself after the statement "You: " where you will type in your input
 # Then after typing your query and pressing enter the program will take your input and process it before outputting the results.
 ```
+---
+
+# My Own Prerequisites
+1. Learn how to write proper Industry standard python programs that will allow scalability and security
+2. Learn how to interact with the Gemini api.
+3. What is the industry standard used to store and access api keys for accessing Gemini api.
+
+
+---
+# Notes
+
+I have to import the generativeai python package first by using the command `pip install -q -U google-generativeai`
+Import the 

@@ -25,5 +25,5 @@ The program should allow the follwoing mock example
 ```Powershell
 
 PS C:\Users\Dev001> gemiline What is the height of the Eiffel Tower?
-Gemiline: "The height of the eiffel tower is 1010 meters."
+Gemiline: "The height of the eiffel tower is 330 meters (984 feet)."
 ```		
