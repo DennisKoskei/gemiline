@@ -13,4 +13,4 @@ user_query = input("Hello, How may I help you today? ")
 genai.configure(api_key=".env:API_KEY")
 model = genai.GenerativeModel("gemini-1.5-flash")
 response = model.generate_content(user_query)
-print(response.text)j
+print(response.text)
