@@ -62,6 +62,9 @@ gemiline: "The height of the Eiffel Tower is blah blah blah meters"
 # Then the program will start and the first output from gemiline will display itself "Hello, How may I help you?
 # Then the cursor will place itself after the statement "You: " where you will type in your input
 # Then after typing your query and pressing enter the program will take your input and process it before outputting the results.
+
+# This kind of interface is to allow a single chat session to persist
+
 ```
 ---
 
